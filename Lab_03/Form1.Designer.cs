@@ -66,30 +66,30 @@ namespace Lab_03
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(90, 48);
+            this.button3.Location = new System.Drawing.Point(112, 48);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(41, 38);
+            this.button3.Size = new System.Drawing.Size(47, 38);
             this.button3.TabIndex = 3;
             this.button3.Text = "=";
             this.button3.UseVisualStyleBackColor = true;
             // 
             // textBox_a
             // 
-            this.textBox_a.Location = new System.Drawing.Point(1, 20);
+            this.textBox_a.Location = new System.Drawing.Point(28, 20);
             this.textBox_a.Name = "textBox_a";
             this.textBox_a.Size = new System.Drawing.Size(100, 22);
             this.textBox_a.TabIndex = 4;
             // 
             // textBox_b
             // 
-            this.textBox_b.Location = new System.Drawing.Point(107, 20);
+            this.textBox_b.Location = new System.Drawing.Point(145, 20);
             this.textBox_b.Name = "textBox_b";
             this.textBox_b.Size = new System.Drawing.Size(100, 22);
             this.textBox_b.TabIndex = 5;
             // 
             // textBox_result
             // 
-            this.textBox_result.Location = new System.Drawing.Point(59, 92);
+            this.textBox_result.Location = new System.Drawing.Point(84, 92);
             this.textBox_result.Name = "textBox_result";
             this.textBox_result.Size = new System.Drawing.Size(100, 22);
             this.textBox_result.TabIndex = 6;
@@ -168,7 +168,7 @@ namespace Lab_03
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(256, 305);
+            this.ClientSize = new System.Drawing.Size(265, 305);
             this.Controls.Add(this.button_n);
             this.Controls.Add(this.button_1x);
             this.Controls.Add(this.button_Sqrt);
